@@ -1,6 +1,6 @@
 
 
- <img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=TypeScript&logoColor=white"/>
 
 </div>
 
