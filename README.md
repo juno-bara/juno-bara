@@ -3,7 +3,7 @@
 **juno-bara/juno-bara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+	/appveyor/build/:juno-bara/:repo
 
 <div align="center">
 	<img src="https://img.shields.io/badge/#3776AB?style=flat&logo=Java&logoColor=white" />
