@@ -1,7 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juno-Bara`s_Gitgub&fontSize=90" />
-</div>
 
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juno-Bara`s_Github&fontSize=90" />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
@@ -21,7 +22,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juno-bara&layout=compact"><br><br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juno-bara&show_icons=true&theme=radical)
   <img src="https://github-readme-stats.vercel.app/api?username=juno-bara&show_icons=true">
 </div>
 
