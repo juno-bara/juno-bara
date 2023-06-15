@@ -13,6 +13,12 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kakao-FFCD00?style=flat&logo=kakao&logoColor=white"/>
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juno-bara&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=juno-bara&show_icons=true">
 </div>
