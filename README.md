@@ -35,8 +35,8 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kakao-FFCD00?style=flat&logo=kakao&logoColor=white"/>
+  <a href="leejuno0403@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  <a href="https://www.notion.so/da1d8bec74224d11a56f8049a089abdd" target="_blank"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat&logo=kakao&logoColor=white"/>
   <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/><br/><br/><br/>
 </div>
 
