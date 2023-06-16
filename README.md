@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/r-276DC3?style=flat&logo=r&logoColor=white"/>  
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+  <a href="https://www.notion.so/da1d8bec74224d11a56f8049a089abdd" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/><br/><br/><br/><br/>
 </div>
