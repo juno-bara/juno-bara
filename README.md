@@ -5,7 +5,8 @@
 <div align="center">
   안녕하세요, 카피바라를 좋아하는<br/> 
   이주노 입니다 <br/>
-  데이터 분석 전무가가 되기 위해 열심히 공부중입니다<br/><br/><br/>
+  데이터 분석 전무가가 되기 위해 열심히 공부중입니다<br/>
+  <img src="https://github.com/juno-bara/7_tutoring/assets/124761676/2bcfbe45-d78c-478d-ac9e-434a2cfc4de8 width="300" height="200"" /><br/><br/>
 </div> 
 
 ---
