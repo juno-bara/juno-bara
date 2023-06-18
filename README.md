@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  Tools & Sklls <br/><br/>
+  ⚒️Tools & Sklls⚒️ <br/><br/>
 </div>  
 
 
@@ -50,8 +50,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juno-bara&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=juno-bara&theme=nord&show_icons=true">
-  
 </div>
 
----
 
