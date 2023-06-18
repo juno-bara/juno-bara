@@ -8,7 +8,7 @@
 </div> 
     
 <div align="center">
-  CAPY-BARA-LOVER 💙:<br/>
+  CAPY-BARA-LOVER 💙<br/>
   striving to become a better person💪  <br/><br/>
 </div> 
 
